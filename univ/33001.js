@@ -34,7 +34,7 @@ var univ_list = {
     }, {
         name: "在线缴费",
         url: "https://ops.fo.umac.mo/"
-    },{
+    }, {
         name: "账户维护",
         url: "https://account.icto.umac.mo/"
     }]
