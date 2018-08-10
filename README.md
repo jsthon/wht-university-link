@@ -32,10 +32,10 @@
         }, {
             ...
         }, {
-            name: "清华园",                        // 链接数量必须小于等于7个
+            name: "清华园",                        // 链接数量必须小于或等于7个
             url: "http://www.thubbs.cn/"
         } ]
     };
 
 ### 4. 提交代码
-通过pull request 或 [propose new file](https://github.com/flagrow/flarum-ext-image-upload/new/master) 提交代码，路径为 /univ/学校ID.js。
+通过 Pull request 或 [Propose new file](https://github.com/flagrow/flarum-ext-image-upload/new/master) 提交代码，路径为 /univ/学校ID.js。
