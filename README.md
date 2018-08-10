@@ -21,7 +21,7 @@
 
 ### 3. 添加导航链接
 
-参考 [univ/1001.js](https://github.com/wht-im/wht-university-link/blob/master/univ/1001.js) 的格式添加链接，其中链接数量必须小于等于7个。
+参考 [univ/1001.js](https://github.com/wht-im/wht-university-link/blob/master/univ/1001.js) 的格式添加链接，**其中链接数量必须小于或等于 7 个。**
 
     var univ_list = {
         school: "清华大学",                        // 学校名称
