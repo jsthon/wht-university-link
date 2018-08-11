@@ -21,18 +21,20 @@
 
 ### 3. 添加导航链接
 
-参考 [univ/1001.js](https://github.com/wht-im/wht-university-link/blob/master/univ/1001.js) 的格式添加链接，**其中链接数量必须小于或等于 7 个。**
+参考 [univ/1001.js](https://github.com/wht-im/wht-university-link/blob/master/univ/1001.js) 的格式添加链接。
+
+**链接数量必须小于或等于 7 个，链接名称少于 8 个汉字或其等宽字符。**
 
     var univ_list = {
         school: "清华大学",                        // 学校名称
         id: "1001",                               // 学校 ID
         link: [ {
-            name: "清华主页",                      // 链接名称
+            name: "清华主页",                      // 链接名称少于8个汉字或其等宽字符
             url: "https://www.tsinghua.edu.cn/"   // 链接地址
         }, {
             ...
         }, {
-            name: "清华园",                        // 链接数量必须小于或等于7个
+            name: "清华园",                        // 链接数量小于或等于7个
             url: "http://www.thubbs.cn/"
         } ]
     };
