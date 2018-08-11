@@ -11,10 +11,10 @@ var univ_list = {
         name: "图书馆",
         url: "http://lib.bit.edu.cn/"
     }, {
-        name: "北理在线 | 综合信息服务平台",
+        name: "北理在线",
         url: "http://online.bit.edu.cn"
     }, {
-        name: "乐学 | 网络教室",
+        name: "网络教室",
         url: "http://online.bit.edu.cn/moodle/"
     }, {
         name: "邮件系统",
