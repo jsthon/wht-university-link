@@ -3,7 +3,7 @@ var univ_list = {
     id: "1011",
     link: [ {
         name: "北理主页",
-        url: "https://www.bit.edu.cn/"
+        url: "http://www.bit.edu.cn/"
     }, {
         name: "教务处",
         url: "http://jwc.bit.edu.cn/"
