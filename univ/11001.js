@@ -21,6 +21,6 @@ var univ_list = {
         url: "https://pt.whu.edu.cn/"
     }, {
         name: "珞珈山水",
-        url: "http://www.thubbs.cn/"
+        url: "http://bbs.whu.edu.cn/"
     } ]
 };
