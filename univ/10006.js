@@ -1,11 +1,11 @@
 var univ_list = {
     school: "西安电子科技大学",                        // 学校名称
-    id: "10006",                               // 学校 ID
+    id: "10006",                                     // 学校 ID
     link: [ {
-        name: "西电主页",                      // 链接名称少于8个汉字或其等宽字符
-        url: "https://www.xidian.edu.cn/"   // 链接地址
+        name: "西电主页",                            // 链接名称少于8个汉字或其等宽字符
+        url: "https://www.xidian.edu.cn/"          // 链接地址
     }, {
-        name: "睿思",                        // 链接数量小于或等于7个
+        name: "睿思",                             // 链接数量小于或等于7个
         url: "http://rs.xidian.edu.cn"
     }, {
         name: "西电开源社区",
