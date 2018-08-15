@@ -8,7 +8,7 @@
 
 ### 1. 复制代码库
 
-通过 Fork 代码库或直接通过 [Propose new file](https://github.com/flagrow/flarum-ext-image-upload/new/master) 创建文件。
+通过 Fork 代码库或直接通过 [Propose new file](https://github.com/wht-im/wht-university-link/new/master) 创建文件。
 
 ### 2. 获取学校 ID 字段
 
@@ -40,4 +40,4 @@
     };
 
 ### 4. 提交代码
-通过 Pull request 或 [Propose new file](https://github.com/flagrow/flarum-ext-image-upload/new/master) 提交代码，路径为 /univ/学校ID.js。
+通过 Pull request 或 [Propose new file](https://github.com/wht-im/wht-university-link/new/master) 提交代码，路径为 /univ/学校ID.js。
