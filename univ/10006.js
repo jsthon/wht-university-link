@@ -8,7 +8,7 @@ var univ_list = {
         name: "睿思",                             // 链接数量小于或等于7个
         url: "http://rs.xidian.edu.cn"
     }, {
-        name: "西电开源社区",
+        name: "开源社区",
         url: "https://linux.xidian.edu.cn/"
     }, {
         name: "图书馆",
