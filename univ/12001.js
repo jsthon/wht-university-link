@@ -6,7 +6,10 @@ var univ_list = {
         url: "https://www.scut.edu.cn/"
     }, {
         name: "教务处",
-        url: "https://www.scut.edu.cn/academic/"
+        url: "http://www.scut.edu.cn/academic/"
+    }, {
+        name: "教务系统",
+        url: "http://www.scut.edu.cn/jw2005/"
     }, {
         name: "图书馆",
         url: "http://www.lib.scut.edu.cn/"
@@ -17,7 +20,7 @@ var univ_list = {
         name: "邮件系统",
         url: "https://webmail.scut.edu.cn/scutmail/"
     }, {
-        name: "VPN 登录",
+        name: "VPN",
         url: "https://www.scut.edu.cn/vpn/"
     } ]
 };
