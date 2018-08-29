@@ -8,6 +8,9 @@ var univ_list = {
         name: "信息系统",
         url: "http://portal.hrbeu.edu.cn/"
     }, {
+        name: "校园卡",
+        url: "http://ecard.hrbeu.edu.cn"
+    },{
         name: "图书馆",
         url: "http://lib.hrbeu.edu.cn/"
     }, {
