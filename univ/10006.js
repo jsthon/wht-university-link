@@ -20,7 +20,7 @@ var univ_list = {
         name: "学生邮箱",
         url: "http://stumail.xidian.edu.cn/"
     }, {
-        name: "教务系统",
-        url: "http://jwxt.xidian.edu.cn"
+        name: "网上服务大厅",
+        url: "http://ehall.xidian.edu.cn"
     }, ]
 };
