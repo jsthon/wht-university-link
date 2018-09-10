@@ -1,20 +1,20 @@
-var univ_list = {
-    school: "ÑàÉ½´óÑ§",                      
+ï»¿var univ_list = {
+    school: "ç‡•å±±å¤§å­¦",                      
     id: "21101",                              
     link: [ {
-        name: "Ñà´óÖ÷Ò³",                      
-        url: "https://www.ysu.edu.cn/"   
+                 name: "ç‡•å±±å¤§å­¦ä¸»é¡µ",                      
+                 url: "https://www.ysu.edu.cn/" 
     },{
-        name:"½ÌÎñÏµÍ³",
-        url:"http://202.206.243.185:8080/",
+                 name:"ç‡•å¤§æ•™åŠ¡ç³»ç»Ÿ",
+                 url:"http://202.206.243.185:8080/"
     },{
-        name: "ÉÏÍøÈÏÖ¤",                     
-        url: "http://auth.ysu.edu.cn/",
+                 name: "ä¸Šç½‘è®¤è¯",                     
+                 url: "http://auth.ysu.edu.cn/"
     },{
-    	name:"Í¼Êé¹İ",
-    	url:"http://library.ysu.edu.cn/",
+    	name:"ç‡•å¤§å›¾ä¹¦é¦†",
+    	url:"http://library.ysu.edu.cn/"
     },{
     	name:"CET4&6",
-    	url:"http:cet.etest.net.cn/",
+    	url:"http:cet.etest.net.cn/"
     }]
 };
