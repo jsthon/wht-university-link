@@ -1,12 +1,12 @@
 var univ_list = {
-    school: "北京邮电大学",                        // 学校名称
-    id: "1005",                               // 学校 ID
-    link: [ {
-        name: "北邮主页",                      // 链接名称少于7个汉字或其等宽字符
-        url: "https://www.bupt.edu.cn/"   // 链接地址
+    school: "北京邮电大学",
+    id: "1005",
+    link: [{
+        name: "北邮主页",
+        url: "https://www.bupt.edu.cn/"
     }, {
         name: "教务系统",
-        url: "https://jwxt.bupt.edu.cn/" 
+        url: "https://jwxt.bupt.edu.cn/"
     }, {
         name: "北邮IPTV",
         url: "http://tv.byr.cn/show"
@@ -20,7 +20,7 @@ var univ_list = {
         name: "图书馆主页",
         url: "https://lib.bupt.edu.cn/index.html"
     }, {
-        name: "北邮人论坛",                        // 链接数量小于或等于7个
+        name: "北邮人论坛",
         url: "http://bbs.byr.cn/"
-    } ]
+    }]
 };
