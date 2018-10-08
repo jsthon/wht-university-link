@@ -6,7 +6,7 @@ var univ_list = {
         url: "https://www.bupt.edu.cn/"
     }, {
         name: "教务系统",
-        url: "https://jwxt.bupt.edu.cn/"
+        url: "http://jwxt.bupt.edu.cn/"
     }, {
         name: "北邮IPTV",
         url: "http://tv.byr.cn/show"
@@ -15,7 +15,7 @@ var univ_list = {
         url: "https://vpn.bupt.edu.cn/http/my.bupt.edu.cn/index.portal"
     }, {
         name: "电子邮箱",
-        url: "https/mail.bupt.edu.cn/"
+        url: "https://mail.bupt.edu.cn/"
     }, {
         name: "图书馆主页",
         url: "https://lib.bupt.edu.cn/index.html"
