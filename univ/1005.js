@@ -15,7 +15,7 @@ var univ_list = {
         url: "https://vpn.bupt.edu.cn/http/my.bupt.edu.cn/index.portal"
     }, {
         name: "电子邮箱",
-        url: "https://mail.bupt.edu.cn/"
+        url: "http://mail.bupt.edu.cn/"
     }, {
         name: "图书馆主页",
         url: "https://lib.bupt.edu.cn/index.html"
