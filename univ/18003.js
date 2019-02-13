@@ -6,7 +6,7 @@ var univ_list = {
         name: "学校官网",
         url: "http://www.henau.edu.cn/"
     }, {
-        name: "英文官网"
+        name: "英文官网",
         url: "http://en.henau.edu.cn/"
     }, {
         name: "教务系统",
