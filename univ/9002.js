@@ -15,6 +15,6 @@ var univ_list = {
         url: "http://nic.zstu.edu.cn/"
     }, {
         name: "浙理新闻网",
-        url: "http://online.bit.edu.cn/moodle/"
+        url: "http://news.zstu.edu.cn/"
     } ]
 };
