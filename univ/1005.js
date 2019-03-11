@@ -12,15 +12,15 @@ var univ_list = {
         url: "http://tv.byr.cn/show"
     }, {
         name: "信息门户",
-        url: "https://vpn.bupt.edu.cn/http/my.bupt.edu.cn/index.portal"
+        url: "https://vpn.bupt.edu.cn/"
     }, {
         name: "电子邮箱",
-        url: "http://mail.bupt.edu.cn/"
+        url: "https://mail.bupt.edu.cn/"
     }, {
         name: "图书馆主页",
         url: "https://lib.bupt.edu.cn/index.html"
     }, {
         name: "北邮人论坛",
-        url: "http://bbs.byr.cn/"
+        url: "https://bbs.byr.cn/"
     }]
 };
