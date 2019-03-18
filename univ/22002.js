@@ -28,5 +28,5 @@ var univ_list = {
 
         url: "http://yjsgl.ncu.edu.cn/"
 
-    }, 
+    } ]
 };
