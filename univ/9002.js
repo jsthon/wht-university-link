@@ -16,5 +16,9 @@ var univ_list = {
     }, {
         name: "浙理新闻网",
         url: "http://news.zstu.edu.cn/"
-    } ]
+    } ,{
+        name:"图书检索"，
+        url:"http://lib.zstu.edu.cn/hwweb/opac/search_adv.php#/index"
+    }
+       ]
 };
