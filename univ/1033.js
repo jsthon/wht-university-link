@@ -8,10 +8,10 @@ var univ_list = {
         name: "教务处",
         url: "http://jwc.ncepu.edu.cn/"
     }, {
-        name: "邮电系统",                        
+        name: "邮件系统",                        
         url: "http://mail.ncepu.edu.cn/"
     }, {
-        name: "服务平台",
+        name: "数字华电",
         url: "http://my.ncepu.edu.cn/"
     }, {
         name: "图书馆",
