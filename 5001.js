@@ -9,7 +9,7 @@ var univ_list = {
         url: "https://ehall.dlut.edu.cn/"
     }, {
         name: "教务系统",
-        url: "https://jwxt.bupt.edu.cn/"
+        url: "https://teach.dlut.edu.cn/"
     }, {
         name: "图书馆",
         url: "http://www.lib.dlut.edu.cn/"
