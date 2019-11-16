@@ -11,8 +11,8 @@ var univ_list = {
         name: "信息与网络中心",
         url: "https://net.xmu.edu.cn"
     }, {
-        name: "信息门户",
-        url: "https://i.xmu.edu.cn"
+        name: "四六级/本科选课",
+        url: "http://bkxk.xmu.edu.cn/xsxk/login.html"
     }, {
         name: "知识资源港",
         url: "http://library.xmu.edu.cn"
@@ -20,7 +20,7 @@ var univ_list = {
         name: "易班",
         url: "http://www.yiban.cn"
     }, {
-        name: "厦大网址导航",
-        url: "http://123.xmu.edu.cn"
+        name: "course平台",
+        url: "http://course.xmu.edu.cn/"
     } ]
 };
