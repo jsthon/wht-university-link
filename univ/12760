@@ -1,0 +1,12 @@
+var univ_list = {
+    school: "河源职业技术学院",                        // 学校名称
+    id: "12760",                               // 学校 ID
+    link: [{
+        name: "河职主页",                      // 链接名称少于7个汉字或其等宽字符
+        url: "http://www.hycollege.net/"   // 链接地址
+    }, {
+    }, {
+            name: "河职超星学习通",                        // 链接数量小于或等于7个
+        url: "http://hycollege.fanya.chaoxing.com/"
+    }]
+};
