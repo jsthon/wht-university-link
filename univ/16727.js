@@ -8,6 +8,9 @@ var univ_list = {
         name: "教务系统",
         url: "http://124.128.203.133:6066/jsxsd/"
     }, {
+        name: "学习通",
+        url: "http://i.chaoxing.com/vLoginPage"
+    }, {
         name: "计算机与软件工程系",
         url: "http://www.sdcet.cn/jsjx/"
     }, {
