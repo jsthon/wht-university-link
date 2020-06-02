@@ -1,0 +1,17 @@
+var univ_list = {
+    school: "北京科技大学",                        // 学校名称
+    id: "1009",                               // 学校 ID
+    link: [ {
+        name: "北科主页",                      // 链接名称少于7个汉字或其等宽字符
+        url: "https://www.ustb.edu.cn/"   // 链接地址
+    },{
+        name: "图书馆",                      // 链接名称少于7个汉字或其等宽字符
+        url: "http://lib.ustb.edu.cn/"   // 链接地址
+    }, {
+        name: "研究生院",                      // 链接名称少于7个汉字或其等宽字符
+        url: "http://gs.ustb.edu.cn/"   // 链接地址
+    },  {
+        name: "文化遗产",                        // 链接数量小于或等于7个
+        url: "https://ihmm.ustb.edu.cn/"
+    } ]
+};
