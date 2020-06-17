@@ -15,7 +15,7 @@ var univ_list = {
         url: "https://webmail.uic.edu.hk/"
     }, {
         name: "LRC",
-        url: "http://www1.uic.edu.hk/en/lrc/"
+        url: "https://web.uic.edu.hk/en/lrc/"
     }, {
         name: "SSL",
         url: "https://ssl.uic.edu.hk/dana-na/auth/url_default/welcome.cgi"
