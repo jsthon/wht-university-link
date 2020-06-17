@@ -5,11 +5,11 @@ var univ_list = {
         name: "在校生导航",
         url: "https://www.bupt.edu.cn/xnzydh/zxs.htm"
     }, {
-        name: "VPN登录",
-        url: "https://vpn.bupt.edu.cn"
+        name: "WebVPN",
+        url: "https://webvpn.bupt.edu.cn"
     }, {
         name: "教务系统",
-        url: "https://jwxt.bupt.edu.cn/"
+        url: "https://jwgl.bupt.edu.cn/jsxsd/"
     }, {
         name: "图书馆主页",
         url: "https://lib.bupt.edu.cn/index.html"
