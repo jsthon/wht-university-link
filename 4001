@@ -1,0 +1,26 @@
+var univ_list = {
+    school: "吉林大学",
+    id: "4001",
+    link: [ {
+        name: "校内oa",
+        url: "https://oa.jlu.edu.cn/"
+    }, {
+        name: "教务管理系统",
+        url: "https://uims.jlu.edu.cn/"
+    }, {
+        name: "学生VPN",
+        url: "https://vpns.jlu.edu.cn/"
+    }, {
+        name: "图书馆",
+        url: "https://lib.jlu.edu.cn/"
+    }, {
+        name: "教务信息网",
+        url: "http://jwc.jlu.edu.cn/"
+    }, {
+        name: "学生邮箱",
+        url: "http://mails.jlu.edu.cn/"
+    }, {
+        name: "吉大主页",
+        url: "https://www.jlu.edu.cn/"
+    } ]
+};
