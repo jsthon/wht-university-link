@@ -1,20 +1,26 @@
-ï»¿var univ_list = {
-    school: "ç‡•å±±å¤§å­¦",                      
+var univ_list = {
+    school: "ÑàÉ½´óÑ§",                      
     id: "21101",                              
     link: [ {
-                 name: "ç‡•å±±å¤§å­¦ä¸»é¡µ",                      
-                 url: "https://www.ysu.edu.cn/" 
+            name: "ÑàÉ½´óÑ§Ö÷Ò³",                      
+            url: "https://www.ysu.edu.cn/"   
     },{
-                 name:"ç‡•å¤§æ•™åŠ¡ç³»ç»Ÿ",
-                 url:"http://202.206.243.185:8080/"
+            name: "ÑàÉ½´óÑ§Í¼Êé¹İ",
+            url: "http://library.ysu.edu.cn/"
     },{
-                 name: "ä¸Šç½‘è®¤è¯",                     
-                 url: "http://auth.ysu.edu.cn/"
+            name: "ÑàÉ½´óÑ§Ğ£ÓÑÍø",                     
+            url: "http://xiaoyou.ysu.edu.cn/"
     },{
-    	name:"ç‡•å¤§å›¾ä¹¦é¦†",
-    	url:"http://library.ysu.edu.cn/"
+    	    name: "ÍøÂç½ÌÑ§Æ½Ì¨",
+            url: "http://ysdx.fanya.chaoxing.com/"
     },{
-    	name:"CET4&6",
-    	url:"http:cet.etest.net.cn/"
+    	    name: "Ñà´ó½ÌÎñÔÚÏß",
+            url: "http://jwc.ysu.edu.cn/"
+    },{
+            name: "ÑàÉ½´óÑ§ĞÂÎÅÍø",
+            url: "https://news.ysu.edu.cn/"
+    },{
+            name: "ÍøÉÏ·şÎñ´óÌü",
+            url: "http://ehall.ysu.edu.cn/"
     }]
 };
