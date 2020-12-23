@@ -3,24 +3,24 @@ var univ_list = {
     id: "12798",
     link: [ {
         name: "UIC 主页",
-        url: "https://uic.edu.hk/en/"
+        url: "https://uic.edu.cn/en/"
     }, {
         name: "MIS",
-        url: "https://mis.uic.edu.hk/"
+        url: "https://mis.uic.edu.cn/"
     }, {
         name: "iSpace",
-        url: "https://ispace.uic.edu.hk/"
+        url: "https://ispace.uic.edu.cn/"
     }, {
         name: "Webmail",
-        url: "https://webmail.uic.edu.hk/"
+        url: "https://webmail.uic.edu.cn/"
     }, {
         name: "LRC",
-        url: "https://web.uic.edu.hk/en/lrc/"
+        url: "https://web.uic.edu.cn/en/lrc/"
     }, {
-        name: "SSL",
-        url: "https://ssl.uic.edu.hk/dana-na/auth/url_default/welcome.cgi"
+        name: "VPN",
+        url: "https://v.uic.edu.hk/"
     }, {
         name: "New Portal",
-        url: "https://p.uic.edu.hk/"
+        url: "https://p.uic.edu.cn/"
     } ]
 };
