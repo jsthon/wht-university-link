@@ -6,7 +6,7 @@ var univ_list = {
         url: "https://www.tsinghua.edu.cn/"
     }, {
         name: "信息系统",
-        url: "http://its.tsinghua.edu.cn/"
+        url: "http://info.tsinghua.edu.cn/"
     }, {
         name: "图书馆",
         url: "http://lib.tsinghua.edu.cn/dra/"
@@ -17,7 +17,7 @@ var univ_list = {
         name: "SSLVPN",
         url: "https://sslvpn.tsinghua.edu.cn"
     }, {
-        name: "网络课堂",
+        name: "网络学堂",
         url: "http://learn.tsinghua.edu.cn/"
     }, {
         name: "清华园",
