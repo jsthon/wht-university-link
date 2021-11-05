@@ -18,7 +18,7 @@ var univ_list = {
         url: "http://xt.xidian.edu.cn/"
     }, {
         name: "学生邮箱",
-        url: "http://stumail.xidian.edu.cn/"
+        url: "https://mail.stu.xidian.edu.cn/"
     }, {
         name: "网上服务大厅",
         url: "http://ehall.xidian.edu.cn"
