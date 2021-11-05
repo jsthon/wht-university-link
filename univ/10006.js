@@ -14,8 +14,8 @@ var univ_list = {
         name: "图书馆",
         url: "http://al.lib.xidian.edu.cn"
     }, {
-        name: "西电学堂",
-        url: "http://xt.xidian.edu.cn/"
+        name: "学在西电",
+        url: "http://i.mooc.chaoxing.com"
     }, {
         name: "学生邮箱",
         url: "https://mail.stu.xidian.edu.cn/"
