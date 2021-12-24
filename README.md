@@ -1,5 +1,9 @@
 # 万花筒 校园导航
 
+**原万花筒已由 [0x3.com](https://0x3.com/) 替代，继续由 [@jsthon](https://github.com/jsthon) 开发维护。**
+
+**本项目不再更新，感谢关注！**
+
 主页：[https://wht.im](https://wht.im/)
 
 邮箱：hi@wht.im
