@@ -1,0 +1,26 @@
+var univ_list = {
+    school: "华中科技大学武昌分校　",
+    id: "11588",
+    link: [ {
+        name: "首义学院主页",
+        url: "http://www.wsyu.edu.cn"
+    }, {
+        name: "信息门户",
+        url: "https://portal.wsyu.edu.cn/zfca/login"
+    }, {
+        name: "图书馆",
+        url: "http://library.wsyu.edu.cn"
+    }, {
+        name: "网上图书馆",
+        url: "http://ilas.lib.wsyu.edu.cn:8099"
+    }, {
+        name: "学工系统",
+        url: "http://xgxt.wsyu.edu.cn"
+    }, {
+        name: "教务系统",
+        url: "http://syjw.wsyu.edu.cn"
+    }, {
+        name: "校园邮箱",
+        url: "http://mail.wsyu.edu.cn"
+    } ]
+};
